@@ -21,7 +21,7 @@ Sempre buscando aperfeiçoamento e conhecimento acima de tudo 💡
 ## Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BeatrizSouzaSantos)](https://github.com/BeatrizSouzaSantos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-s-santos-73514b195/)](https://www.linkedin.com/in/beatriz-s-santos-73514b195/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-souza-santos/)](https://www.linkedin.com/in/beatriz-souza-santos/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abiazinhax)](https://twitter.com/abiazinhax)
 
 - Obrigado pela visita! 🙋
