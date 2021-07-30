@@ -4,14 +4,6 @@
 <table>
 
 ## Meu nome é Beatriz de Souza Santos! 😄.
-
-Desenvolvedora de Sistemas 💻📚
-
-Apaixonada por programação ♥️ 
-
-Dev Full Stack, 
-
-Sempre buscando aperfeiçoamento e conhecimento acima de tudo 💡
 <div>
   <a href="https://github.com/BeatrizSouzaSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizSouzaSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
