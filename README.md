@@ -1,7 +1,5 @@
-# Olá!Meu nome é Beatriz de Souza Santos! 😄.
+# Olá! Eu sou a Beatriz de Souza Santos! 😄.
 ![Beatriz souza santos](https://user-images.githubusercontent.com/80977502/113771812-421b2e00-96fa-11eb-9662-476a2cc6e7ed.png)
-<center>
-<table>
 
 <div>
   <a href="https://github.com/BeatrizSouzaSantos">
