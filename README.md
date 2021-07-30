@@ -1,6 +1,5 @@
 # Olá! Eu sou a Beatriz de Souza Santos! 😄.
 ![Beatriz souza santos](https://user-images.githubusercontent.com/80977502/113771812-421b2e00-96fa-11eb-9662-476a2cc6e7ed.png)
-
 <div>
   <a href="https://github.com/BeatrizSouzaSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizSouzaSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
