@@ -1,15 +1,10 @@
+# Olá!
 ![Beatriz souza santos](https://user-images.githubusercontent.com/80977502/113771812-421b2e00-96fa-11eb-9662-476a2cc6e7ed.png)
 <center>
 <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizSouzasantos&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=BeatrizSouzaSantos&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
- 
-# Olá!
+
 ## Meu nome é Beatriz de Souza Santos! 😄.
+
 Desenvolvedora de Sistemas 💻📚
 
 Apaixonada por programação ♥️ 
@@ -17,12 +12,22 @@ Apaixonada por programação ♥️
 Dev Full Stack, 
 
 Sempre buscando aperfeiçoamento e conhecimento acima de tudo 💡
+     <div>
+  <a href="https://github.com/BeatrizSouzaSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizSouzaSantos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+</center>  
 
 ## Sobre mim
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BeatrizSouzaSantos)](https://github.com/BeatrizSouzaSantos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-souza-santos/)](https://www.linkedin.com/in/beatriz-souza-santos/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abiazinhax)](https://twitter.com/abiazinhax)
+<div> 
+<a href="https://instagram.com/ssouzab_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/ssouzab#9440" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
+<a href="https://www.linkedin.com/in/beatriz-souza-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  ![Snake animation](https://github.com/BeatrizSouzaSantos/BeatrizSouzaSantos/blob/output/github-contribution-grid-snake.svg)
+
 
 - Obrigado pela visita! 🙋
 - Volte sempre 
