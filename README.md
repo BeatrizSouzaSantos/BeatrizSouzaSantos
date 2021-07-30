@@ -1,15 +1,13 @@
-# Olá!
+# Olá!Meu nome é Beatriz de Souza Santos! 😄.
 ![Beatriz souza santos](https://user-images.githubusercontent.com/80977502/113771812-421b2e00-96fa-11eb-9662-476a2cc6e7ed.png)
 <center>
 <table>
 
-## Meu nome é Beatriz de Souza Santos! 😄.
 <div>
   <a href="https://github.com/BeatrizSouzaSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizSouzaSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizSouzaSantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 ## Sobre mim
 
 <div> 
