@@ -1,4 +1,3 @@
-# Olá! Eu sou a Beatriz de Souza Santos! 😄.
 ![Beatriz souza santos](https://user-images.githubusercontent.com/80977502/127781996-d1c68ef4-17b8-4525-9fee-093a5303aa4f.png)
 
 ##
