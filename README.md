@@ -1,5 +1,5 @@
 # Olá! Eu sou a Beatriz de Souza Santos! 😄.
-![Beatriz souza santos](https://user-images.githubusercontent.com/80977502/113771812-421b2e00-96fa-11eb-9662-476a2cc6e7ed.png)
+![Beatriz souza santos](https://user-images.githubusercontent.com/80977502/127781996-d1c68ef4-17b8-4525-9fee-093a5303aa4f.png)
 
 ##
 
