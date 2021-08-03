@@ -13,7 +13,7 @@
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="right" alt="Icon" src="https://user-images.githubusercontent.com/80977502/128073800-14b1f3d2-6c79-4232-b61d-397427eaa90b.gif">
+ <img align="right" alt="Icon" src="https://user-images.githubusercontent.com/80977502/128074885-fee0a8ed-d09c-4ee1-bec7-d5e13b7eb2a8.gif">
 </div>
  
  ##
