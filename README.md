@@ -1,20 +1,15 @@
-![Beatriz souza santos](https://user-images.githubusercontent.com/80977502/127781996-d1c68ef4-17b8-4525-9fee-093a5303aa4f.png)
-
- <center>
-<table>
-    <tr>
-  <a href="https://github.com/BeatrizSouzaSantos"></td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizSouzaSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizSouzaSantos&layout=compact&langs_count=7&theme=dracula"/></td>
- </tr>   
-</table>
-</center>
- 
+ ## Olá! Eu sou a Beatriz Souza
+ <div>
+  <a href="https://github.com/BeatrizSouzaSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizSouzaSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizSouzaSantos&layout=compact&langs_count=7&theme=dracula"/>
+</div> 
 <div style="display: inline_block"><br>
  <img align="center" alt="Swift" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/swift/swift-original.svg">
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="VsCode" height"50" width="30" &nbsp src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
  <img align="right" alt="Icon" src="https://user-images.githubusercontent.com/80977502/128074885-fee0a8ed-d09c-4ee1-bec7-d5e13b7eb2a8.gif">
 </div>
  
