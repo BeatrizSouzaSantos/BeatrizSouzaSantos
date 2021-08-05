@@ -1,13 +1,11 @@
 ![Beatriz souza santos](https://user-images.githubusercontent.com/80977502/127781996-d1c68ef4-17b8-4525-9fee-093a5303aa4f.png)
 
-##
-
  <center>
 <table>
     <tr>
   <a href="https://github.com/BeatrizSouzaSantos"></td>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=BeatrizSouzaSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizSouzaSantos&layout=compact&langs_count=7&theme=dracula"/></td>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizSouzaSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizSouzaSantos&layout=compact&langs_count=7&theme=dracula"/></td>
  </tr>   
 </table>
 </center>
