@@ -1,8 +1,9 @@
-![Olá, bem vindo ao meu perfil](https://github.com/BeatrizSouzaSantos/BeatrizSouzaSantos/assets/80977502/5066d5d8-d6fb-48b8-b23e-e7f558e65661)
+![Beatriz - Banner](https://github.com/BeatrizSouzaSantos/BeatrizSouzaSantos/assets/80977502/cc8f9aa4-0ac4-42c8-83c9-044309c2bf0c)
+
 <div>
   <a href="https://github.com/beatrizsouzasantos">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=beatrizsouzasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsouzasantos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=beatrizsouzasantos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsouzasantos&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Swift" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/swift/swift-original.svg">
