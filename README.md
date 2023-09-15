@@ -1,4 +1,4 @@
-![Beatriz souza santos](https://user-images.githubusercontent.com/80977502/127781996-d1c68ef4-17b8-4525-9fee-093a5303aa4f.png)
+![Olá, bem vindo ao meu perfil](https://github.com/BeatrizSouzaSantos/BeatrizSouzaSantos/assets/80977502/5066d5d8-d6fb-48b8-b23e-e7f558e65661)
 <div>
   <a href="https://github.com/beatrizsouzasantos">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=beatrizsouzasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
